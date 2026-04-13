@@ -1,0 +1,3 @@
+[submodule "2026-w2-hassan-esp32_water_surface_level_scanner"]
+	path = 2026-w2-hassan-esp32_water_surface_level_scanner
+	url = https://github.com/UBC-GSRC/2026-w2-hassan-esp32_water_surface_level_scanner.git
