@@ -9,8 +9,8 @@ import struct
 import socket  
 import time
 
-from Network import Axis
-from Network import Controller
+from .Network import Axis
+from .Network import Controller
 
 class BinaryCommunication:
   
